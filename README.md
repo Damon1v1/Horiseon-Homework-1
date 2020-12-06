@@ -9,9 +9,15 @@ Added semantic meaning and diversity
 Code is now spaced out and easier to read
 Removed redundant tags
 Changed title element to represent the website and brief description
-CSS selectors now appear in the order in which the tags their selecting appear independent of their styling
+CSS selectors now appear in the order in which the tags their selecting appear independent of 
+their styling
 Included alt attributes to images for search engines
 Links now all functuib appropriately
 All Changes commented in code
 Website ready to be deployed
+```
 
+## Mockup
+```
+
+![Website Demo](https://github.com/[Damon1v1]/[hw1-refactoring]/blob/[main]/demo.jpg?raw=true)

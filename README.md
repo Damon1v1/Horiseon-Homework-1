@@ -18,5 +18,4 @@ Website ready to be deployed
 ```
 
 ## Mockup
-```
 ![demo](https://user-images.githubusercontent.com/71532303/101292561-0d877c00-37c5-11eb-85af-5f0a50120a05.jpg)

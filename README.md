@@ -19,3 +19,20 @@ Website ready to be deployed
 
 ## Mockup
 ![demo](https://user-images.githubusercontent.com/71532303/101292561-0d877c00-37c5-11eb-85af-5f0a50120a05.jpg)
+
+## Deployment
+
+[You can view the website with this link](https://github.com/Damon1v1/hw1-refactoring)
+
+## Credits
+### Resources I used during this project
+```
+https://moz.com/blog/accessibility-seo-1
+https://www.w3schools.com/tags/att_img_alt.asp
+https://www.w3schools.com/tags/att_global_title.asp
+https://www.w3schools.com/css/css_comments.asp
+https://www.w3schools.com/cssref/pr_font_font-size.asp
+https://www.sitepoint.com/how-good-are-your-html-and-css-comments/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
+```

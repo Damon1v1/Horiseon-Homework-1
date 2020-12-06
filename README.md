@@ -22,7 +22,7 @@ Website ready to be deployed
 
 ## Deployment
 
-[You can view the website with this link](https://github.com/Damon1v1/hw1-refactoring)
+[You can view the website with this link](https://damon1v1.github.io/hw1-refactoring/)
 
 ## Credits
 ### Resources I used during this project

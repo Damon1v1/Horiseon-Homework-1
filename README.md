@@ -20,4 +20,4 @@ Website ready to be deployed
 ## Mockup
 ```
 
-![Website Demo](https://github.com/[Damon1v1]/[hw1-refactoring]/blob/[main]/demo.jpg?raw=true)
+![Screenshot](demo.jpg)
